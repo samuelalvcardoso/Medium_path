@@ -1,5 +1,3 @@
-import matplotlib.pyplot as plt
-
 def mean_average_filter(lat, long, nr_points = 5):
 
 	mov_median_list_lat_tot=[]

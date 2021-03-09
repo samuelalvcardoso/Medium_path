@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 	<Document>
-		<name>cidade1</name>
+		<name>ini_4</name>
 		<Placemark>
 			<Snippet maxLines="0"> </Snippet>
 			<description> </description>
 			<name>Line 1</name>
 			<Style>
 				<IconStyle>
-					<color>941400FF</color>
+					<color>9414E7FF</color>
 				</IconStyle>
 				<LineStyle>
-					<color>941400FF</color>
-					<width>5</width>
+					<color>9414E7FF</color>
+					<width>2</width>
 				</LineStyle>
 			</Style>
 			<LineString>

@@ -1,4 +1,4 @@
-def kml_file_creator(list_lat, list_long, color,line_width, filename):
+def kml_file_creator(list_lat, list_long, color,line_width,path_name, filename):
 
 	if color=='r':
 		code_color = '941400FF'
@@ -15,11 +15,15 @@ def kml_file_creator(list_lat, list_long, color,line_width, filename):
 	elif color=='gr':
 		code_color = '94646464'
 
+	elif color=='y':
+		code_color = '9414E7FF'
+
+
 	f = open(filename, "w")
 	f.write('<?xml version="1.0" encoding="utf-8"?>\n')
 	f.write('<kml xmlns="http://www.opengis.net/kml/2.2">\n')
 	f.write("\t<Document>\n")
-	f.write("\t\t<name>cidade1</name>\n")
+	f.write("\t\t<name>"+str(path_name)+"</name>\n")
 	f.write("\t\t<Placemark>\n")
 	f.write('\t\t\t<Snippet maxLines="0"> </Snippet>\n')
 	f.write("\t\t\t<description> </description>\n")
