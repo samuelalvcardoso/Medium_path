@@ -7,6 +7,6 @@ The main differences between both implementations was the path cleaning. In the 
 
 
 ![alt text](https://github.com/samuelalvcardoso/Medium_path/tree/master/Medium_path/moving_average_filter.png?raw=true)
-![plot](./Medium_path/tree/master/Medium_path/moving_average_filter.png?raw=true)
+![plot](./Medium_path/moving_average_filter.png?raw=true)
 
 More detailed documentation (in portuguese) from the Matlab implementation can be found in documentation.pdf.
