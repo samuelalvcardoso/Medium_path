@@ -10,7 +10,7 @@ The main differences between both implementations was the path cleaning. In the 
 ![plot](./Medium_path/moving_average_filter.png?raw=true)
 
 
-The final result after run the full argorithm is presented:
+The final result after run the full algorithm is presented:
 
 ![plot](./Medium_path/final_result.png?raw=true)
 
