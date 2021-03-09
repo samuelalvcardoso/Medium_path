@@ -6,5 +6,7 @@ The work was developed by João Louro and Samuel Cardoso as a project for the Na
 The main differences between both implementations was the path cleaning. In the Python implementation it was used a moving average filter. The results are presented in the following image:
 
 
+![alt text](https://github.com/samuelalvcardoso/Medium_path/tree/master/Medium_path/moving_average_filter.png?raw=true)
+
 
 More detailed documentation (in portuguese) from the Matlab implementation can be found in documentation.pdf.
